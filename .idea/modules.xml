@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kafka-spring/consumer/consumer.iml" filepath="$PROJECT_DIR$/kafka-spring/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-3-partition-replication/kafka-3-partition-replication.iml" filepath="$PROJECT_DIR$/kafka-3-partition-replication/kafka-3-partition-replication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-4-segment/kafka-4-segment.iml" filepath="$PROJECT_DIR$/kafka-4-segment/kafka-4-segment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-hello/kafka-hello.iml" filepath="$PROJECT_DIR$/kafka-hello/kafka-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-spring/kafka-spring.iml" filepath="$PROJECT_DIR$/kafka-spring/kafka-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-3-partition-replication/prconsumer/prconsumer.iml" filepath="$PROJECT_DIR$/kafka-3-partition-replication/prconsumer/prconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-spring/producer/producer.iml" filepath="$PROJECT_DIR$/kafka-spring/producer/producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-3-partition-replication/prproducer/prproducer.iml" filepath="$PROJECT_DIR$/kafka-3-partition-replication/prproducer/prproducer.iml" />
+    </modules>
+  </component>
+</project>

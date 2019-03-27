@@ -1,0 +1,6 @@
+1. 执行命令创建分片与副本
+    bin/kafka-topics.sh --create --zookeeper node01:2181 --replication-factor 2 --partitions 3 --topic prtest
+2. 创建消息信息，发现kafka数据目录有
+    node01上有prtest-0,prtest-2两个文件夹
+    node02上有prtest-0,prtest-1
+    node03上有prtest-1,prtest-2
